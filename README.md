@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a data enthusiast with a lean towards data science and machine learning. I enjoy playing strategy games like Hearts of Iron IV, and reading is also a hobby of mine.
+I am a data enthusiast with a lean towards Data Analysis, BI, and Data Science. I enjoy playing strategy games like Hearts of Iron IV, and reading is also a hobby of mine.
 
 
 # 💻 Tech Stack:
