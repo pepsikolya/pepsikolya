@@ -4,7 +4,7 @@ I am a data enthusiast with a lean towards Data Analysis, BI, and Data Science. 
 
 ## 🛠️ Tech Stack
 
-> ⚠️ *Some of these tools I'm actively learning or plan to pick up soon.*
+> ⚠️ *These tools I'm actively learning*
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
