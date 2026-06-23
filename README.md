@@ -8,18 +8,20 @@
 
 I'm a **data analytics intern** and high school student based in the **Czech Republic**. I'm especially interested in data visualization and business intelligence.
 
-Outside of data I enjoy strategy games (Hearts of Iron IV is a favourite) and reading
+Outside of data I enjoy strategy games (Hearts of Iron IV is a favourite) and reading.
 
 ---
 
-##  Tech Stack (Actively leraning) 
+## 🛠️ Tech Stack (Actively learning)
 
 ### Data & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=python&logoColor=11557c)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### Databases
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
